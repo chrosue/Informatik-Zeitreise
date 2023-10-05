@@ -1,3 +1,4 @@
 1936 - Alan Turing präsentiert die Turing-Maschine.
 1945 - John von Neumann veröffentlicht sein Konzept eines Speicherprogrammierbaren Computers.
 1989 - Die Erfindung des World Wide Web durch Tim Berners-Lee.
+1991 - Die Entwicklung des Linux-Betriebssystems durch Linus Torvalds
